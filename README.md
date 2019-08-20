@@ -1,6 +1,6 @@
 # forgeops-init
 
-Holds initial configuration for the ForgeRock platform components. 
+Holds initial configuration for the ForgeRock platform components. JG
 
 ## About This Repository
 
