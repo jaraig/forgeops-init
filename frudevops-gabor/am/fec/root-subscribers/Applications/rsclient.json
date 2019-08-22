@@ -1,0 +1,29 @@
+{
+  "metadata" : {
+    "realm" : "/subscribers",
+    "amsterVersion" : "6.5.0",
+    "entityType" : "Applications",
+    "entityId" : "rsclient",
+    "pathParams" : { }
+  },
+  "data" : {
+    "_id" : "rsclient",
+    "resourceTypeUuids" : [ "11577d48-a570-49c4-b02b-82991e7832460", "9abda5d4-06ab-43e1-8f67-2dbb86155efe0" ],
+    "createdBy" : "id=dsameuser,ou=user,dc=openam,dc=forgerock,dc=org",
+    "editable" : true,
+    "conditions" : [ ],
+    "subjects" : [ "JwtClaim" ],
+    "resourceComparator" : null,
+    "creationDate" : 1529010321634,
+    "lastModifiedDate" : 1532006248175,
+    "lastModifiedBy" : "id=dsameuser,ou=user,dc=openam,dc=forgerock,dc=org",
+    "saveIndex" : null,
+    "searchIndex" : null,
+    "applicationType" : "iPlanetAMWebAgentService",
+    "entitlementCombiner" : "DenyOverride",
+    "attributeNames" : [ ],
+    "description" : null,
+    "displayName" : null,
+    "name" : "rsclient"
+  }
+}
